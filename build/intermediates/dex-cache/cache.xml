@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\WorkspacesASProject\JpushDemo\app\libs\jpush-android-2.1.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fad60eea64007823d74948fc6708371dee57fe36">
+        <dex dex="C:\WorkspacesASProject\JpushDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\jpush-android-2.1.3_fb7fdd2375ca1434621da9874a50b152846af939\classes.dex" />
+    </item>
+    <item
+        jar="C:\SDK\Android\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\WorkspacesASProject\JpushDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_28567cc6032ca55e38ba6a33b05e5468e1b4cf85\classes.dex" />
+    </item>
+    <item
+        jar="C:\WorkspacesASProject\JpushDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fc7b8ebef1574223b5f65eac696c885bb3bfa042">
+        <dex dex="C:\WorkspacesASProject\JpushDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7cea16216bf01132ed617d496f6483d276dc93ff\classes.dex" />
+    </item>
+    <item
+        jar="C:\WorkspacesASProject\JpushDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f2d21ac6dcc393f423fb94abfe4df7f639dbcc61">
+        <dex dex="C:\WorkspacesASProject\JpushDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_63de3727f8319e2a8c4dc34b1a9a4a1415509914\classes.dex" />
+    </item>
+    <item
+        jar="C:\WorkspacesASProject\JpushDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\WorkspacesASProject\JpushDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_0df5f8f78dd44c82767082a0b7d8301a5e38fc75\classes.dex" />
+    </item>
+    <item
+        jar="C:\WorkspacesASProject\JpushDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\WorkspacesASProject\JpushDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_fb0018fcd12603a8adf8b475edd0ae7514456413\classes.dex" />
+    </item>
+
+</items>

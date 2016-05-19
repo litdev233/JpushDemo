@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\WorkspacesASProject\\JpushDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_popwin_layout.xml",
+        "source": "C:\\WorkspacesASProject\\JpushDemo\\app\\src\\main\\res\\layout\\jpush_popwin_layout.xml"
+    },
+    {
+        "merged": "C:\\WorkspacesASProject\\JpushDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_webview_layout.xml",
+        "source": "C:\\WorkspacesASProject\\JpushDemo\\app\\src\\main\\res\\layout\\jpush_webview_layout.xml"
+    },
+    {
+        "merged": "C:\\WorkspacesASProject\\JpushDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\WorkspacesASProject\\JpushDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\WorkspacesASProject\\JpushDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "C:\\WorkspacesASProject\\JpushDemo\\app\\src\\main\\res\\layout\\activity_test.xml"
+    }
+]

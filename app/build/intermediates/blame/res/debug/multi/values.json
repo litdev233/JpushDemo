@@ -1,0 +1,146 @@
+[
+    {
+        "outputFile": "C:\\WorkspacesASProject\\JpushDemo\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "C:\\WorkspacesASProject\\JpushDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 46,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 52,
+                    "endOffset": 150
+                },
+                "from": {
+                    "file": "C:\\WorkspacesASProject\\JpushDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 169,
+                        "endColumn": 52,
+                        "endOffset": 217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 155,
+                    "endColumn": 60,
+                    "endOffset": 211
+                },
+                "from": {
+                    "file": "C:\\WorkspacesASProject\\JpushDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 60,
+                        "endOffset": 163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 216,
+                    "endColumn": 60,
+                    "endOffset": 272
+                },
+                "from": {
+                    "file": "C:\\WorkspacesASProject\\JpushDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endColumn": 60,
+                        "endOffset": 279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 277,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 563
+                },
+                "from": {
+                    "file": "C:\\WorkspacesASProject\\JpushDemo\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 568,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 723
+                },
+                "from": {
+                    "file": "C:\\WorkspacesASProject\\JpushDemo\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 728,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1291
+                },
+                "from": {
+                    "file": "C:\\WorkspacesASProject\\JpushDemo\\app\\src\\main\\res\\values\\jpush_style.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 677
+                    }
+                }
+            }
+        ]
+    }
+]

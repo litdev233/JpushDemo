@@ -1,0 +1,283 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:2:1-153:12
+	package
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.4.0] C:\WorkspacesASProject\JpushDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml
+permission#com.litdev.jpush.permission.JPUSH_MESSAGE
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:11:5-13:47
+	android:protectionLevel
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:13:9-44
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:12:9-65
+uses-permission#com.litdev.jpush.permission.JPUSH_MESSAGE
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:17:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:18:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:19:5-75
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:19:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:20:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:21:5-80
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:21:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:22:5-66
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:22:22-63
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:23:5-84
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:23:22-81
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:25:5-73
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:25:22-70
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:28:5-81
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:28:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:29:5-76
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:29:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:30:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:31:5-79
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:31:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:32:5-89
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:32:22-86
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:33:5-79
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:33:22-76
+application
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:35:5-151:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\WorkspacesASProject\JpushDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:39:9-41
+	android:allowBackup
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:37:9-35
+	android:icon
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:38:9-45
+	android:theme
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:40:9-62
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:36:9-38
+activity#com.litdev.jpush.MainActivity
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:41:9-47:20
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:41:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:42:13-46:29
+action#android.intent.action.MAIN
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:45:27-74
+service#cn.jpush.android.service.PushService
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:52:9-62:19
+	android:enabled
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:54:13-35
+	android:exported
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:55:13-37
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:53:13-64
+intent-filter#cn.jpush.android.intent.PUSH_TIME+cn.jpush.android.intent.PushService+cn.jpush.android.intent.REGISTER+cn.jpush.android.intent.REPORT
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:56:13-61:29
+action#cn.jpush.android.intent.REGISTER
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:57:17-75
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:57:25-72
+action#cn.jpush.android.intent.REPORT
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:58:17-73
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:58:25-70
+action#cn.jpush.android.intent.PushService
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:59:17-78
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:59:25-75
+action#cn.jpush.android.intent.PUSH_TIME
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:60:17-76
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:60:25-73
+service#cn.jpush.android.service.DaemonService
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:66:9-75:19
+	android:enabled
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:68:13-35
+	android:exported
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:69:13-36
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:67:13-66
+intent-filter#cn.jpush.android.intent.DaemonService+com.litdev.jpush
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:70:13-74:29
+action#cn.jpush.android.intent.DaemonService
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:71:17-80
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:71:25-77
+category#com.litdev.jpush
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:73:17-61
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:73:27-58
+receiver#cn.jpush.android.service.PushReceiver
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:78:9-97:20
+	android:enabled
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:80:13-35
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:79:13-65
+intent-filter#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY+com.litdev.jpush
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:81:13-85:29
+	android:priority
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:81:28-51
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:82:17-94
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:82:25-91
+intent-filter#android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:86:13-89:29
+action#android.intent.action.USER_PRESENT
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:87:17-77
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:87:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:88:17-79
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:88:25-76
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:91:13-96:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:92:17-78
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:92:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:93:17-80
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:93:25-77
+data
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:95:17-50
+	android:scheme
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:95:23-47
+receiver#com.litdev.jpush.receive.MyReceive
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:99:9-110:20
+	android:enabled
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:101:13-35
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:100:13-62
+intent-filter#cn.jpush.android.intent.MESSAGE_RECEIVED+cn.jpush.android.intent.NOTIFICATION_OPENED+cn.jpush.android.intent.NOTIFICATION_RECEIVED+cn.jpush.android.intent.REGISTRATION+com.litdev.jpush
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:102:13-109:29
+action#cn.jpush.android.intent.REGISTRATION
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:103:17-79
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:103:25-76
+action#cn.jpush.android.intent.MESSAGE_RECEIVED
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:104:17-83
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:104:25-80
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:105:17-88
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:105:25-85
+action#cn.jpush.android.intent.NOTIFICATION_OPENED
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:106:17-86
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:106:25-83
+activity#cn.jpush.android.ui.PushActivity
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:113:9-123:20
+	android:exported
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:116:13-37
+	android:configChanges
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:115:13-63
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:114:13-60
+intent-filter#android.intent.category.DEFAULT+cn.jpush.android.ui.PushActivity+com.litdev.jpush
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:117:13-122:29
+action#cn.jpush.android.ui.PushActivity
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:118:17-75
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:118:25-72
+category#android.intent.category.DEFAULT
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:120:17-76
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:120:27-73
+service#cn.jpush.android.service.DownloadService
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:125:9-129:19
+	android:enabled
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:127:13-35
+	android:exported
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:128:13-37
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:126:13-68
+receiver#cn.jpush.android.service.AlarmReceiver
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:131:9-75
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:131:19-72
+meta-data#JPUSH_CHANNEL
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:139:9-141:49
+	android:value
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:141:13-46
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:140:13-41
+meta-data#JPUSH_APPKEY
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:143:9-145:56
+	android:value
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:145:13-53
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:144:13-40
+activity#com.litdev.jpush.TestActivity
+ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:147:9-150:20
+	android:label
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:149:13-56
+	android:name
+		ADDED from C:\WorkspacesASProject\JpushDemo\app\src\main\AndroidManifest.xml:148:13-41

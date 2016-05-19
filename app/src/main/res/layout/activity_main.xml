@@ -1,0 +1,51 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="#f5f6f7" >
+
+    <EditText 
+        android:id="@+id/ed_alias"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="输入要设置的别名"
+        android:singleLine="true"
+        />
+    <Button 
+        android:onClick="SetAlias"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="设置别名"
+        />
+    
+    <EditText 
+        android:layout_marginTop="20dp"
+        android:id="@+id/ed_Tag"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="多个逗号分隔"
+        android:singleLine="true"
+        />
+    <Button 
+        android:onClick="SetTag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="设置标签"
+        />
+    
+    <Button 
+        android:layout_marginTop="20dp"
+        android:onClick="SetNotify"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="本地通知"
+        />
+    
+    
+
+</LinearLayout>

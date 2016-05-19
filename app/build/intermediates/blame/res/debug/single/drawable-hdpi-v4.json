@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\WorkspacesASProject\\JpushDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_richpush_actionbar_divider.png",
+        "source": "C:\\WorkspacesASProject\\JpushDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_richpush_actionbar_divider.png"
+    },
+    {
+        "merged": "C:\\WorkspacesASProject\\JpushDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_richpush_actionbar_back.png",
+        "source": "C:\\WorkspacesASProject\\JpushDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_richpush_actionbar_back.png"
+    },
+    {
+        "merged": "C:\\WorkspacesASProject\\JpushDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\WorkspacesASProject\\JpushDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\WorkspacesASProject\\JpushDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jpush_notification_icon.png",
+        "source": "C:\\WorkspacesASProject\\JpushDemo\\app\\src\\main\\res\\drawable-hdpi\\jpush_notification_icon.png"
+    },
+    {
+        "merged": "C:\\WorkspacesASProject\\JpushDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\richpush_btn_selector.xml",
+        "source": "C:\\WorkspacesASProject\\JpushDemo\\app\\src\\main\\res\\drawable-hdpi\\richpush_btn_selector.xml"
+    }
+]
